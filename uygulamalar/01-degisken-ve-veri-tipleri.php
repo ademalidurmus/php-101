@@ -21,6 +21,8 @@ $ornek_degisken = 1;
 echo 'Merhaba ben Kadir :)';
 echo '<br>';
 echo 'Merhaba ben Adem :)';
+echo '<br>';
+echo 'Merhaba ben Sadık :)';
 
 // Bir alt sartira gecmek icin: \n PHP_EOL
 echo '<br>';
