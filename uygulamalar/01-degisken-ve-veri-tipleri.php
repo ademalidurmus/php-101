@@ -19,6 +19,8 @@ $ornek_degisken = 1;
  * var_dump: degisken degeri veya herhangi bir bilgiyi detayli olarak ekrana yazdirir.
  **/
 echo 'Merhaba Ben Kadir :)';
+echo '<br>';
+echo 'Burda Bende var';
 // Bir alt sartira gecmek icin: \n PHP_EOL
 echo '<br>';
 echo 25000; // veri tipi integer
