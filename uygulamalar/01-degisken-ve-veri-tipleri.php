@@ -18,9 +18,10 @@ $ornek_degisken = 1;
  * print_r: metin, sayisal ifadeler ve **dizileri** ekrana yazdir.
  * var_dump: degisken degeri veya herhangi bir bilgiyi detayli olarak ekrana yazdirir.
  **/
-echo 'Merhaba Ben Kadir :)';
+echo 'Merhaba ben Kadir :)';
 echo '<br>';
-echo 'Burda ben de var';
+echo 'Merhaba ben Adem :)';
+
 // Bir alt sartira gecmek icin: \n PHP_EOL
 echo '<br>';
 echo 25000; // veri tipi integer
@@ -81,4 +82,3 @@ var_dump($dizi);
  * array: dizi
  * object: nesne
  **/
-echo 'Hello ben kadir';
