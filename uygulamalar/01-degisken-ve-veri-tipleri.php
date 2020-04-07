@@ -20,7 +20,7 @@ $ornek_degisken = 1;
  **/
 echo 'Merhaba Ben Kadir :)';
 echo '<br>';
-echo 'Burda Bende var';
+echo 'Burda ben de var';
 // Bir alt sartira gecmek icin: \n PHP_EOL
 echo '<br>';
 echo 25000; // veri tipi integer
