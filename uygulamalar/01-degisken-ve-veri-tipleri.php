@@ -79,3 +79,4 @@ var_dump($dizi);
  * array: dizi
  * object: nesne
  **/
+echo 'Hello ben kadir';
