@@ -2,7 +2,7 @@
 
 $mevsim= array('ilkbahar', 'yaz', 'sonbahar', 'kış');
 
-$s = count($mevsim); // dizinin eleman sayısı bulunur
+$s = count($mevsim); 
 
 for( $i=0; $i<$s; $i++ ){
 
