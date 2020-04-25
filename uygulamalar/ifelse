@@ -1,0 +1,9 @@
+<?php 
+
+$mevsim= array('ilkbahar', 'yaz', 'sonbahar', 'kış');
+ 
+foreach( $mevsim as $m ) {
+
+   echo $m.'<br>';
+}
+?>
