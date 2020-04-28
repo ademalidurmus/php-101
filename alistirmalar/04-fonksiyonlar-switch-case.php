@@ -14,10 +14,10 @@ function Islemler($sayi1,$sayi2,$i=1) {
 	
 	}
 
-    $islem = 1;
 }
 $sayi11 = 20;
 $sayi22 = 400;
 
+$islem = 1;
 echo( Islemler($sayi11,$sayi22));
 

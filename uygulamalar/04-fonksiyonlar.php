@@ -58,3 +58,6 @@ function varsayilanDegereSahipParametre(string $isim, int $dogum_yili = null)
 }
 // varsayilanDegereSahipParametre('Sadık'); // Merhaba, Sadık.
 // varsayilanDegereSahipParametre('Kadir', 1995); // Merhaba, Kadir. 1995 yilinda dogdum demistin, degil mi?
+
+
+
