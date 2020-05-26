@@ -1,4 +1,4 @@
-<?php
+              <?php
     session_start();
 
     if (!is_array($_SESSION['items'])) {
