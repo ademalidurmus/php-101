@@ -1,0 +1,13 @@
+{
+    "name": "php101/ornek-proje",
+    "description": "PHP101 dersinde composer kavrami irdelenirken olusturulan ornek bir proje",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PHP101\\OrnekProje\\": "src/"
+        }
+    },
+    "require": {
+        "murataygun/tckimlikdogrulama": "^1.0"
+    }
+}
